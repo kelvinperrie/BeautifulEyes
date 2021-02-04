@@ -1,7 +1,7 @@
 # BeautifulEyes
 jquery plugin to draw eyes on a page that watch the mouse cursor as it moves
 
-some examples & how to use: http://htmlpreview.github.io/?https://github.com/kelvinperrie/BeautifulEyes/blob/master/examples/examples.html
+some examples & how to use: https://beautifuleyes.netlify.app/examples/examples.html
 
 here's some gifs:
 
